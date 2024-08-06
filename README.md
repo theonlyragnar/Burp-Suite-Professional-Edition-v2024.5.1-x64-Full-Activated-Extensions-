@@ -5,6 +5,7 @@ Project Page Link : https://theonlyragnar.github.io/Burp-Suite-Professional-Edit
 
  Extract The Zip File  
  ------------------------------------------------------------------------------------------------------------------------\\
+
 Use Java SE Development Kit 21.x (OR) 22.x (OR) 23.x
 
 Kali Linux Only the first time
