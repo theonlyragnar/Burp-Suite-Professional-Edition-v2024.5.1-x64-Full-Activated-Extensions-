@@ -10,3 +10,10 @@ Kali Linux Only the first time
 When You Run The Burp Just use That Terminal Command
 
 #- Run ( ./Dr-FarFar.jar )
+
+
+
+
+
+
+![Uploading Capture.PNG…]()
