@@ -16,4 +16,5 @@ When You Run The Burp Just use That Terminal Command
 
 
 
-![Uploading Capture.PNG…]()
+
+![Capture](https://github.com/user-attachments/assets/514f867a-12f5-435d-bb98-6151b8dae0bc)
