@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1371713933/vector/orange-abstract-gradient-background.jpg?s=612x612&w=0&k=20&c=enmoaErWq_m_2VreK_MG1ttDBmax1sTcCzw5rJCyvjE=);
+    background-repeat: no-repeat;
+   background-size: cover;
+    height: 1000px;
+    width: 100%;
+}
+img{
+    position: relatabive;
+    margin-top: 380px;
+    border-radius: 90px;
+    box-shadow: 10px 10px 20px black;
+    height: 200px;
+    width: 200px;
+    
+}
+h2{
+    font-family: sans-serif;
+}
